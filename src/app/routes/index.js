@@ -1,0 +1,15 @@
+export const ABOUT = "/about";
+export const CART = "/cart";
+export const CHECKOUT = "/checkout/data";
+export const CHECKOUTLOCATION = "/checkout/location";
+export const CHECKOUTMETHOD = "/checkout/method";
+export const CHECKOUTOVERVIEW = "/checkout/overview";
+export const CONTACT = "/contact";
+export const COOKIES = "/cookies";
+export const FARMER = "/farmer";
+export const HOME = "/home";
+export const LANDING = "/";
+export const PRIVACY = "/privacy-policy";
+export const PRODUCT = "/product";
+export const PRODUCTS = "/products";
+export const PROFILE = "/profile";
